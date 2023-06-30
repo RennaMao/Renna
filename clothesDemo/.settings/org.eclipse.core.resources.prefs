@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/jp/ht/dao/ProductIDAO.java=UTF-8
+encoding//src/main/java/com/jp/ht/dao/UserImplDAO.java=UTF-8
+encoding//src/main/java/com/jp/ht/entity/Cart.java=UTF-8
+encoding//src/main/java/com/jp/ht/service/ProductIService.java=UTF-8
+encoding//src/main/java/com/jp/ht/web/LoginServlet.java=UTF-8
+encoding//src/main/java/com/jp/ht/web/RegisterServlet.java=UTF-8
+encoding//src/main/webapp/register.jsp=UTF-8
